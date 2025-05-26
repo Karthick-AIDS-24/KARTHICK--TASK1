@@ -1,0 +1,106 @@
+CustomerID,Age,Gender,AnnualIncome,SpendingScore,MaritalStatus,Education,HealthCondition,NoShow,AppointmentDay,ShowType,ShowGenre,NetflixRating,ProductCategory,PurchaseAmount,PurchaseDate
+CUST0005,60,Male,20854,80,Married,Bachelor,GOOD,Yes,2025-01-05,movie,,3.7,books,379.58,2025-01-23
+CUST0038,68,Female,45184,8,Married,,Average,,2025-02-07,movie,Action,4.6,Clothing,587.21,2025-03-30
+CUST0089,38,Male,132893,32,SINGLE,,,No,2025-03-30,movie,,4.6,Electronics,424.58,2025-07-10
+CUST0079,27,Male,140975,24,SINGLE,,GOOD,Yes,2025-03-20,Movie,,3.3,Groceries,214.36,2025-06-20
+CUST0076,43,Male,50306,6,SINGLE,Bachelor,,Yes,2025-03-17,Movie,action,4.1,,558.64,2025-06-14
+CUST0003,46,Male,132859,19,Divorced,,Good,,2025-01-03,TV Show,Action,3.2,,863.17,2025-01-19
+CUST0050,42,MALE,92082,51,married,Bachelor,GOOD,yes,2025-02-19,TV Show,,2.3,Electronics,441.77,2025-04-23
+CUST0063,52,MALE,108614,61,SINGLE,PhD,Poor,,2025-03-04,tv show,,1.8,Electronics,637.14,2025-05-19
+CUST0091,62,MALE,40932,33,married,High School,Poor,yes,2025-04-01,movie,action,1.4,Groceries,523.73,2025-07-14
+CUST0028,39,Male,87863,61,Married,Master,Poor,,2025-01-28,tv show,action,4.3,Electronics,403.21,2025-03-10
+CUST0004,32,Male,132181,48,Married,PhD,GOOD,yes,2025-01-04,movie,Action,1.8,Groceries,946.65,2025-01-21
+CUST0071,23,Male,132561,44,Married,High School,GOOD,,2025-03-12,TV Show,Comedy,3.4,Books,28.21,2025-06-04
+CUST0013,41,female,107092,72,Married,,GOOD,NO,2025-01-13,TV Show,Action,1.4,books,36.83,2025-02-08
+CUST0087,40,MALE,51616,63,SINGLE,High School,,NO,2025-03-28,,Action,2.2,Groceries,183.62,2025-07-06
+CUST0099,46,female,,46,SINGLE,,Average,Yes,2025-04-09,Movie,,3.6,,,2025-07-30
+CUST0002,69,Male,123041,99,Married,,GOOD,Yes,2025-01-02,,Drama,3.2,Electronics,190.11,2025-01-17
+CUST0041,20,female,106202,17,SINGLE,Bachelor,Poor,No,2025-02-10,tv show,,2.8,Clothing,819.27,2025-04-05
+CUST0048,35,female,76250,30,married,,,No,2025-02-17,TV Show,,3.2,Groceries,415.32,2025-04-19
+CUST0009,36,Male,75680,54,Single,Master,,NO,2025-01-09,TV Show,Action,1.5,Groceries,35.13,2025-01-31
+CUST0067,67,MALE,21802,35,married,High School,Average,,2025-03-08,TV Show,Comedy,1.4,Electronics,984.56,2025-05-27
+CUST0027,29,female,57157,80,married,Master,Poor,Yes,2025-01-27,Movie,Action,4.2,Books,831.92,2025-03-08
+CUST0088,57,Male,123727,85,married,High School,,No,2025-03-29,TV Show,Drama,3.5,Clothing,915.27,2025-07-08
+CUST0014,53,,70859,36,Divorced,PhD,Poor,NO,2025-01-14,tv show,Documentary,4.4,Clothing,229.75,2025-02-10
+CUST0030,42,,72083,100,Divorced,PhD,GOOD,,2025-01-30,,Documentary,1.9,Clothing,212.93,2025-03-14
+CUST0092,35,MALE,137796,67,SINGLE,,GOOD,yes,2025-04-02,movie,,2.0,Clothing,56.5,2025-07-16
+CUST0095,43,Male,92694,95,Married,Master,Poor,Yes,2025-04-05,TV Show,action,1.4,Books,91.97,2025-07-22
+CUST0034,45,Female,54698,14,Married,Bachelor,GOOD,yes,2025-02-03,,Comedy,3.4,Electronics,94.65,2025-03-22
+CUST0045,38,MALE,111906,59,married,Master,,,2025-02-14,movie,Documentary,3.1,Groceries,594.39,2025-04-13
+CUST0046,26,,69811,86,married,High School,,Yes,2025-02-15,movie,,1.3,Books,275.38,2025-04-15
+CUST0007,38,female,58623,20,Single,Bachelor,Average,NO,2025-01-07,TV Show,,1.6,Electronics,647.56,2025-01-27
+CUST0074,46,MALE,105981,93,Single,Master,Good,No,2025-03-15,movie,action,2.9,Electronics,580.75,2025-06-10
+CUST0058,64,Male,103763,97,Single,,,Yes,2025-02-27,,Documentary,5.0,,801.86,2025-05-09
+CUST0032,44,Male,85733,68,Married,High School,Average,,2025-02-01,,Drama,4.6,Groceries,897.37,2025-03-18
+CUST0070,19,Male,59384,17,Married,,GOOD,,2025-03-11,Movie,Drama,2.8,,279.58,2025-06-02
+CUST0082,48,female,127512,53,married,,Good,,2025-03-23,,Documentary,4.3,books,901.02,2025-06-26
+CUST0015,57,Female,145657,38,Married,Bachelor,,No,2025-01-15,Movie,Drama,4.0,,238.76,2025-02-12
+CUST0053,26,female,115742,27,SINGLE,Bachelor,,Yes,2025-02-22,,Comedy,1.7,books,765.97,2025-04-29
+CUST0078,51,female,66843,37,SINGLE,,Good,Yes,2025-03-19,tv show,Drama,3.4,Groceries,831.44,2025-06-18
+CUST0018,39,MALE,107455,89,married,Master,Good,No,2025-01-18,TV Show,action,5.0,Electronics,113.07,2025-02-18
+CUST0072,59,female,67254,92,Single,Master,,,2025-03-13,Movie,Drama,3.0,books,915.16,2025-06-06
+CUST0090,33,Female,146603,87,Single,PhD,,No,2025-03-31,movie,,1.6,,389.31,2025-07-12
+CUST0006,25,MALE,110084,3,Married,PhD,Poor,yes,2025-01-06,tv show,Drama,1.4,,278.04,2025-01-25
+CUST0052,67,female,54754,8,married,,Good,No,2025-02-21,movie,Comedy,3.8,,948.97,2025-04-27
+CUST0064,31,MALE,120689,48,Married,High School,Poor,NO,2025-03-05,TV Show,Action,3.9,Electronics,265.31,2025-05-21
+CUST0023,55,,129751,82,married,PhD,Average,NO,2025-01-23,tv show,Action,1.2,Electronics,108.45,2025-02-28
+CUST0075,35,,80713,46,SINGLE,PhD,Poor,yes,2025-03-16,,Documentary,2.6,books,281.31,2025-06-12
+CUST0002,69,Male,123041,99,Married,,GOOD,Yes,2025-01-02,,Drama,3.2,Electronics,190.11,2025-01-17
+CUST0031,66,female,126081,33,Single,Master,Good,NO,2025-01-31,TV Show,Drama,3.5,Electronics,300.22,2025-03-16
+CUST0008,56,female,27392,24,Single,Bachelor,,No,2025-01-08,TV Show,Documentary,1.0,,414.65,2025-01-29
+CUST0065,34,female,31111,19,SINGLE,,,Yes,2025-03-06,TV Show,,3.0,Books,147.96,2025-05-23
+CUST0093,64,Female,49855,18,married,,,No,2025-04-03,tv show,Comedy,3.9,Clothing,174.62,2025-07-18
+CUST0016,41,Female,124095,84,Single,High School,GOOD,No,2025-01-16,Movie,Comedy,2.6,Books,675.17,2025-02-14
+CUST0085,25,female,131472,60,SINGLE,High School,GOOD,Yes,2025-03-26,tv show,Action,1.9,books,604.51,2025-07-02
+CUST0047,56,,22811,22,SINGLE,Bachelor,Poor,Yes,2025-02-16,,Comedy,1.9,Groceries,627.91,2025-04-17
+CUST0060,61,MALE,104896,64,married,,Poor,Yes,2025-03-01,Movie,Comedy,3.8,Books,32.24,2025-05-13
+CUST0094,41,female,81434,25,Married,Master,GOOD,NO,2025-04-04,,Documentary,3.4,,740.65,2025-07-20
+CUST0057,45,,87270,30,Divorced,Bachelor,Poor,,2025-02-26,TV Show,Drama,3.3,Groceries,895.61,2025-05-07
+CUST0010,40,female,146354,33,Divorced,Bachelor,Poor,NO,2025-01-10,TV Show,Action,2.9,Electronics,164.59,2025-02-02
+CUST0077,61,female,36646,99,Single,High School,GOOD,,2025-03-18,TV Show,,1.0,Groceries,654.91,2025-06-16
+CUST0049,21,,132547,38,SINGLE,Bachelor,Good,Yes,2025-02-18,,,2.7,,556.53,2025-04-21
+CUST0084,32,MALE,97371,99,Divorced,Master,Average,Yes,2025-03-25,TV Show,Documentary,2.4,books,601.44,2025-06-30
+CUST0097,62,Male,,58,married,PhD,GOOD,,2025-04-07,movie,Comedy,4.2,Clothing,,2025-07-26
+CUST0068,57,Male,28155,64,SINGLE,PhD,GOOD,yes,2025-03-09,,,3.1,Books,530.43,2025-05-29
+CUST0037,64,Female,42671,20,married,,,yes,2025-02-06,movie,action,3.9,,189.62,2025-03-28
+CUST0019,19,Male,83734,99,Married,PhD,,NO,2025-01-19,movie,Drama,1.8,Electronics,801.92,2025-02-20
+CUST0012,28,Male,139937,75,Married,,Good,No,2025-01-12,movie,Documentary,4.2,books,662.33,2025-02-06
+CUST0051,31,,144249,54,Divorced,Bachelor,Good,,2025-02-20,movie,Action,3.9,Books,301.52,2025-04-25
+CUST0044,24,,35708,76,married,Bachelor,,,2025-02-13,movie,,2.6,Groceries,385.9,2025-04-11
+CUST0003,46,Male,132859,19,Divorced,,Good,,2025-01-03,TV Show,Action,3.2,,863.17,2025-01-19
+CUST0035,33,female,130078,21,Married,Master,Good,,2025-02-04,movie,action,3.7,Clothing,215.81,2025-03-24
+CUST0096,42,,,54,SINGLE,High School,Poor,NO,2025-04-06,TV Show,Comedy,4.7,Electronics,,2025-07-24
+CUST0025,38,MALE,32688,54,married,High School,Poor,Yes,2025-01-25,Movie,Comedy,4.3,Electronics,725.04,2025-03-04
+CUST0042,54,Male,129893,33,Single,,Average,No,2025-02-11,tv show,action,3.3,Groceries,348.4,2025-04-07
+CUST0043,68,MALE,71663,48,SINGLE,Master,Average,yes,2025-02-12,Movie,,2.4,Electronics,266.83,2025-04-09
+CUST0061,25,MALE,103879,97,Married,Master,Average,yes,2025-03-02,,Documentary,4.1,Clothing,275.99,2025-05-15
+CUST0001,56,,114209,9,Married,Bachelor,Poor,Yes,2025-01-01,,Documentary,2.8,Clothing,163.69,2025-01-15
+CUST0017,20,Male,46309,99,SINGLE,PhD,,NO,2025-01-17,tv show,Action,4.7,,29.51,2025-02-16
+CUST0100,32,Male,,24,Married,High School,Good,Yes,2025-04-10,,Drama,4.1,Groceries,,2025-08-01
+CUST0080,53,,116601,93,SINGLE,PhD,Good,yes,2025-03-21,Movie,Documentary,3.9,,20.89,2025-06-22
+CUST0086,31,Male,22049,97,Single,,,No,2025-03-27,TV Show,Documentary,2.7,,668.39,2025-07-04
+CUST0066,53,Female,57504,4,Single,,,,2025-03-07,Movie,,4.0,Electronics,836.58,2025-05-25
+CUST0004,32,Male,132181,48,Married,PhD,GOOD,yes,2025-01-04,movie,Action,1.8,Groceries,946.65,2025-01-21
+CUST0073,21,Male,41918,30,Married,High School,Good,No,2025-03-14,Movie,Comedy,3.2,Electronics,126.57,2025-06-08
+CUST0062,64,MALE,91295,69,Married,,Average,Yes,2025-03-03,Movie,,1.6,books,546.22,2025-05-17
+CUST0081,31,Male,110735,46,Divorced,High School,Good,,2025-03-22,movie,Comedy,3.4,,145.52,2025-06-24
+CUST0083,65,Female,36371,95,Married,High School,,NO,2025-03-24,tv show,Action,4.8,Electronics,875.15,2025-06-28
+CUST0020,41,MALE,90467,25,Single,PhD,,NO,2025-01-20,Movie,Documentary,2.5,,186.76,2025-02-22
+CUST0098,58,Male,,67,Single,PhD,Good,yes,2025-04-08,movie,Action,1.1,,,2025-07-28
+CUST0033,59,,109045,33,SINGLE,High School,Average,,2025-02-02,TV Show,Comedy,2.3,Books,22.87,2025-03-20
+CUST0056,37,Female,22911,21,Married,PhD,GOOD,Yes,2025-02-25,tv show,,4.0,books,492.56,2025-05-05
+CUST0069,21,Male,93656,49,Single,Bachelor,Average,,2025-03-10,movie,Action,2.5,,179.96,2025-05-31
+CUST0022,47,Male,118506,18,SINGLE,Master,Average,Yes,2025-01-22,,Drama,3.9,books,245.8,2025-02-26
+CUST0024,19,female,138906,66,Single,High School,,yes,2025-01-24,TV Show,Documentary,4.1,books,250.74,2025-03-02
+CUST0055,19,Female,31411,98,married,High School,GOOD,yes,2025-02-24,TV Show,Documentary,3.0,Electronics,869.78,2025-05-03
+CUST0054,43,MALE,126642,27,Married,Master,GOOD,yes,2025-02-23,,action,4.5,Electronics,148.71,2025-05-01
+CUST0039,61,MALE,113384,7,Divorced,PhD,Good,Yes,2025-02-08,Movie,Action,3.5,Clothing,427.21,2025-04-01
+CUST0059,24,,28680,28,Divorced,Bachelor,GOOD,No,2025-02-28,,Documentary,4.0,Clothing,430.96,2025-05-11
+CUST0005,60,Male,20854,80,Married,Bachelor,GOOD,Yes,2025-01-05,movie,,3.7,books,379.58,2025-01-23
+CUST0001,56,,114209,9,Married,Bachelor,Poor,Yes,2025-01-01,,Documentary,2.8,Clothing,163.69,2025-01-15
+CUST0040,69,,62107,67,married,,Average,No,2025-02-09,movie,action,3.2,Groceries,893.74,2025-04-03
+CUST0011,28,female,66717,24,SINGLE,High School,GOOD,,2025-01-11,movie,action,3.4,,718.81,2025-02-04
+CUST0021,61,Female,72662,93,married,Bachelor,Average,,2025-01-21,,,4.7,Groceries,656.22,2025-02-24
+CUST0029,61,female,126308,41,Married,,Average,NO,2025-01-29,tv show,,1.7,books,671.4,2025-03-12
+CUST0026,50,female,45342,35,Divorced,,,Yes,2025-01-26,TV Show,Drama,4.0,Clothing,857.14,2025-03-06
+CUST0036,32,Male,100623,48,Single,PhD,,No,2025-02-05,movie,,2.8,Groceries,36.27,2025-03-26
